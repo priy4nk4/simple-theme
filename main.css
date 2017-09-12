@@ -1,0 +1,20 @@
+ul.navbar-nav{
+    margin-left: 100px;
+}
+nav.navbar{
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.navbar-brand{
+    color: white;
+   
+}
+.navbar ul li{
+    padding-right: 10px;
+
+}
+#Logo{
+    background-color: grey;
+}
+ 
